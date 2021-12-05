@@ -1,2 +1,7 @@
-# laving-tumbotlar
-Discord platformunu salmış bulunmaktayım. Bütün botlarımı sizinle paylaşıcam o kadar emeğe bi star atın bari mutlu olayım.  
+### DİSCORD PLATFORMUNU SALMIŞ BULUNMAKTAYIM İHTİYACI OLANLAR VARDIR DİYE KENDİ BOTLARIMI PAYLAŞICAM EDİTLEYİP VEYA .JSONLARI DOLDURUP KULLANABİLRSİNİZ BANA ULAŞIP HATA FELAN VAR DİYE YAZMAYIN KENDINIZ ÇÖZÜN BU BOTLAR GERÇEKTAN KALİTELİ VE BİRÇOK BOTCUNUNU İSTEDİĞİ BOTLAR 15 STAR GELİNCE ATARIM 
+
+![image](https://user-images.githubusercontent.com/76821782/144748737-25430c4b-1c37-42f4-a901-b6e1a22d4752.png)
+
+# ayrılık mesajım; :D
+
+![image](https://cdn.discordapp.com/attachments/910951617426251786/917042551687614494/unknown.png)
